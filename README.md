@@ -11,10 +11,11 @@ Career Overview
 ![alt text](bioimage.png "Career Overview")
 
 **Some Career Highlights:**
-
--PhD – University of North Carolina Chapel Hill in Sociology with a minor in Mathematical Statistics. 10+ years teaching applied statistics, research methods and math modeling at the undergraduate and graduate levels.
--30+ years leading and managing the design, development and delivery of commercial, enterprise planning and analytical software for three independent software vendors (ISVs). The software was used by 1000’s of customers to help run some of the largest retail, manufacturing, transportation and distribution businesses in the world (including 70 of the global 100).
--At JDA Software helped lead the acquisition and merger of 3 major supply chain software companies, taking the company from $200M to $1B in revenues and from 500 to 4500 employees.
--At JDA Software helped establish and lead the development of the JDA Center of Excellence in India, growing the operation from ~150 developers to ~2000 employees working in development, consulting and support with annual turnover of 5-10%.
--In 1997 introduced the Internet and Digital Economy Track at HICSS. It is still in operation (see Index to IEEE HICSS Proceedings).  In 1999 co-authored a leading textbook in E-Commerce.  The 8th edition was released in 2015.
--From 2010-2015 developed and delivered a series of tutorials on Web and Social Media Mining and Visualization (copies in PDF format are provide at Dropbox).
+<ul>
+<li>Ph.D. from the University of North Carolina Chapel Hill in Sociology with a minor in Mathematical Statistics. 10+ years teaching applied statistics, research methods and math modeling at the undergraduate and graduate levels.
+<li>30+ years leading and managing the design, development and delivery of commercial, enterprise planning and analytical software for three independent software vendors (ISVs). The software was used by 1000’s of customers to help run some of the largest retail, manufacturing, transportation and distribution businesses in the world (including 70 of the global 100).
+<li>At JDA Software helped lead the acquisition and merger of 3 major supply chain software companies, taking the company from $200M to $1B in revenues and from 500 to 4500 employees.
+<li>At JDA Software helped establish and lead the development of the JDA Center of Excellence in India, growing the operation from ~150 developers to ~2000 employees working in development, consulting and support with annual turnover of 5-10%.
+<li>In 1997 introduced the Internet and Digital Economy Track at HICSS. It is still in operation (see Index to IEEE HICSS Proceedings).  In 1999 co-authored a leading textbook in E-Commerce.  The 8th edition was released in 2015.
+<li>From 2010-2015 developed and delivered a series of tutorials on Web and Social Media Mining and Visualization (copies in PDF format are provide at Dropbox).
+</ul>
