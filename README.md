@@ -4,9 +4,9 @@ In my early years, I was formally trained as a social scientist, mathematical so
 
 At the end of 2015, I officially retired.  Since my retirement, I have devoted much of my time to various research projects focused on applying this specialized knowledge to the data and visual mining of social media of various sorts and to the areas of algorithmic and generative art. Towards this end, I formed an LLC called *Dataffiti* devoted to these research endeavors. 
 
-More recently, I've also been serving as an Advisor/Board member to a startup company called *Teuvonet Technologies LLC*. Teuvonet is focused on the development of artificial intelligence and machine learning chips and SOCs for real-time analysis of data from sensory devices with the goal of detecting anomalies, failures, and providing emergency service or predictive preventative maintenance.
+More recently, I've also been serving as an Advisor/Board Member to a startup company called *Teuvonet Technologies LLC*. Teuvonet is focused on the development of artificial intelligence and machine learning chips and SOCs for real-time analysis of data from sensory devices with the goal of detecting anomalies, failures, and providing emergency service or predictive preventative maintenance.
 
-Career Overview
+**Career Overview**
 
 ![alt text](bioimage.png "Career Overview")
 
