@@ -8,7 +8,7 @@ More recently, I've also been serving as an Advisor/Board Member to a startup co
 
 **Career Overview**
 
-![alt text](bioimage.png "Career Overview")
+![alt text](bioimage-v1.png "Career Overview")
 
 **Some Career Highlights:**
 <ul>
