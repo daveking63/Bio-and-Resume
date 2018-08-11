@@ -16,6 +16,11 @@ More recently, I've also been serving as an Advisor/Board Member to a startup co
 <li>30+ years leading and managing the design, development and delivery of commercial, enterprise planning and analytical software for three independent software vendors (ISVs). The software was used by 1000’s of customers to help run some of the largest retail, manufacturing, transportation and distribution businesses in the world (including 70 of the global 100).
 <li>At JDA Software helped lead the acquisition and merger of 3 major supply chain software companies, taking the company from $200M to $1B in revenues and from 500 to 4500 employees.
 <li>At JDA Software helped establish and lead the development of the JDA Center of Excellence in India, growing the operation from ~150 developers to ~2000 employees working in development, consulting and support with annual turnover of 5-10%.
-<li>In 1997 introduced the Internet and Digital Economy Track at HICSS. It is still in operation (see Index to IEEE HICSS Proceedings).  In 1999 co-authored a leading textbook in E-Commerce.  The 8th edition was released in 2015.
+<li>In 1997 introduced the Internet and Digital Economy Track at HICSS. It is still in operation, although I stepped down as the co-chair in 2018 (see <a href='https://scholarspace.manoa.hawaii.edu/handle/10125/52003'>Index to IEEE HICSS Proceedings</a>).
+<li> In 1999 co-authored a leading textbook in E-Commerce.  The 9th edition (<a href='https://www.springer.com/us/book/9783319587141'><i>E-Commerce 2018:A Managerial and Social Networks Perspective</i></a> was released in 2018. Additionally, in 2003 published an Introduction to Electronic Commerce. The <a href='https://www.springer.com/us/book/9783319500904'>4th edition</a> was also released in 2018.
 <li>From 2010-2015 developed and delivered a series of tutorials on Web and Social Media Mining and Visualization (copies in PDF format are provide at Dropbox).
 </ul>
+
+**Recent Research Efforts**
+
+A description of my recent research in the areas of data science, digital humanities, and generative art are described in the various repositories found at my <'a href='https://github.com/daveking63>my github site</a>. 
