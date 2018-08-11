@@ -2,7 +2,7 @@
 
 In my early years, I was formally trained as a social scientist, mathematical sociologist, and statistician and applied this training both in academics and the commercial software industry for 45 years (for an overview see the diagram below, for the details see my <a href='https://github.com/daveking63/Bio-and-Resume/blob/master/David%20King%20Resume%20-%202018.pdf'>resume</a>. Over those 45 years I picked up specialized knowledge in databases (SQL and NoSQL), natural language processing, AI, machine learning and data mining, image processing, data visualization, infographics, and a very long laundry list of computer programming languages (65+ at last count). 
 
-At the end of 2014, I officially retired.  Since my retirement, I have devoted much of my time to various research projects focused on applying this specialized knowledge to the data and visual mining of social media of various sorts and to the areas of algorithmic and generative art. Towards this end, I formed an LLC called *Dataffiti* devoted to these research endeavors. For a description of many of the projects I have undertaken, see the other repositories at <a href='https://github.com/daveking63/Bio-and-Resume/blob/master/David%20King%20Resume%20-%202018.pdf'>my github site</a>.
+At the end of 2014, I officially retired.  Since my retirement, I have devoted much of my time to various research projects focused on applying this specialized knowledge to the data and visual mining of social media of various sorts and to the areas of algorithmic and generative art. Towards this end, I formed an LLC called *Dataffiti* devoted to these research endeavors. For a description of many of the projects I have undertaken, see the other repositories at <a href='https://github.com/daveking63'>my github site</a>.
 
 More recently, I've also been serving as an Advisor/Board Member to a startup company called *Teuvonet Technologies LLC*. Teuvonet is focused on the development of artificial intelligence and machine learning chips and SOCs for real-time analysis of data from sensory devices with the goal of detecting anomalies, failures, and providing emergency service or predictive preventative maintenance.
 
@@ -20,7 +20,3 @@ More recently, I've also been serving as an Advisor/Board Member to a startup co
 <li> In 1999 co-authored a leading textbook in E-Commerce.  The 9th edition (<a href='https://www.springer.com/us/book/9783319587141'><i>E-Commerce 2018:A Managerial and Social Networks Perspective</i></a> was released in 2018. Additionally, in 2003 published an Introduction to Electronic Commerce. The <a href='https://www.springer.com/us/book/9783319500904'>4th edition</a> was also released in 2018.
 <li>From 2010-2015 developed and delivered a series of tutorials on Web and Social Media Mining and Visualization (copies in PDF format are provide at Dropbox).
 </ul>
-
-**Recent Research Efforts**
-
-A description of my recent research in the areas of data science, digital humanities, and generative art are described in the various repositories found at my https://github.com/daveking63/Bio-and-Resume/blob/master/David%20King%20Resume%20-%202018.pdfmy github site</a>. 
