@@ -17,7 +17,7 @@ Throughout my tenure in leadership, I remained deeply "hands-on," cultivating a 
 <li>Software Engineering: Proficiency in over 65 programming languages and various operating systems.</li>
 </ul>
 
-During that time, I also co-authored a leading textbook in E-Commerce which went through 18 editions from 1999 to 2018 (see E-Commerce: A Social and Managerial Perspective), as well as a number articles in per review journals.
+During that time, I also co-authored a leading textbook in E-Commerce which went through 18 editions from 1999 to 2018 (see E-Commerce: A Social and Managerial Perspective), as well as a number articles in peer reviewed journals.
 
 <b>Current Research & Advisory Work (2014–Present)</b>
 
